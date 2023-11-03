@@ -6,7 +6,7 @@ review processes.
 
 ## Inspiration
 
-Unfinished
+Reviews are one of the biggest reasons why code dont get pushed/take too long to get pushed. Instead of spending my time reviewing PRs, I would rather leverage AI especially if it can be trained to surf XXM lines of code in minutes and create the best possible review.  
 
 ## How It Works
 
