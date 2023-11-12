@@ -46,6 +46,6 @@ jobs:
           exclude: "**/*.json, **/*.md" # Optional: exclude patterns separated by commas
 ```
 
-## Notes
-Integrating GPT-4 as we speak
- 
+Here is an example of the tool in action or view it in the following pull request: https://github.com/ReshiAdavan/Sleepy/pull/10
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example.PNG" />
