@@ -47,5 +47,5 @@ jobs:
 ```
 
 ## Notes
-Still working on this project. More features/functionality TBD
+Integrating GPT-4 as we speak
  
