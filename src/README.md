@@ -22,3 +22,7 @@ Compilation of instances where the code review tool has proven exceptionally use
 5. Caught the use of the ```any``` keyword to be redundant: https://github.com/ReshiAdavan/Sleepy/pull/12
 
 <img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example5.PNG" />
+
+6. Caught informal diction: https://github.com/ReshiAdavan/ReshiAdavan/pull/9
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example6.PNG" />
