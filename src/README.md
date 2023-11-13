@@ -18,3 +18,7 @@ Compilation of instances where the code review tool has proven exceptionally use
 4. Caught a situation where I repeated the same link, on accident: https://github.com/ReshiAdavan/Sleepy/pull/11
 
 <img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example4.PNG" />
+
+5. Caught the use of the ```any``` keyword to be redundant: https://github.com/ReshiAdavan/Sleepy/pull/12
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example5.PNG" />
