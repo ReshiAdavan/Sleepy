@@ -48,4 +48,4 @@ jobs:
 
 ## Examples
 
-To see live examples of the code review tool in action, refer to the ```README.md``` in the ```src``` folder 
+To see live examples of the code review tool in action, refer to the  [Compilation of Examples](https://github.com/ReshiAdavan/Sleepy/blob/master/src/README.md)
