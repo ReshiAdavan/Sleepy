@@ -167,7 +167,7 @@ function createComment(
     reviewComment: string;
   }>
 ): Array<{ body: string; path: string; line: number }> {
-  return aiResponses.flatMap((aiResponse) => {
+  return aiResponses.flatMap((aiResponse: any) => {
     if (!file.to) {
       return [];
     }
@@ -239,8 +239,8 @@ async function main() {
     .split(",")
     .map((s) => s.trim());
 
-  const filteredDiff = parsedDiff.filter((file) => {
-    return !excludePatterns.some((pattern) =>
+  const filteredDiff = parsedDiff.filter((file: any) => {
+    return !excludePatterns.some((pattern: any) =>
       minimatch(file.to ?? "", pattern)
     );
   });
