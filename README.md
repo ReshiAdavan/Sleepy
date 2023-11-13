@@ -46,6 +46,6 @@ jobs:
           exclude: "**/*.json, **/*.md" # Optional: exclude patterns separated by commas
 ```
 
-Here is an example of the tool in action or view it in the following pull request: https://github.com/ReshiAdavan/Sleepy/pull/10
+## Examples
 
-<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example.PNG" />
+To see live examples of the code review tool in action, refer to the ```README.md``` in the ```src``` folder 
