@@ -11,8 +11,10 @@ Compilation of instances where the code review tool has proven exceptionally use
 
 <img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example2.PNG" />
 
-3. Rephrasing and More Concise Description: https://github.com/ReshiAdavan/Sleepy/pull/11
+3. Rephrasing and More Concise Description: (Same PR as above)
 
-<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example2.PNG" />
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example3.PNG" />
 
+4. Caught a situation where I repeated the same link, on accident: (Same PR as above)
 
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example4.PNG" />
