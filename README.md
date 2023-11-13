@@ -46,6 +46,6 @@ jobs:
           exclude: "**/*.json, **/*.md" # Optional: exclude patterns separated by commas
 ```
 
-## Notes
-Integrating GPT-4 as we speak
- 
+## Examples
+
+To see live examples of the code review tool in action, refer to the  [Compilation of Examples](https://github.com/ReshiAdavan/Sleepy/blob/master/src/README.md)
