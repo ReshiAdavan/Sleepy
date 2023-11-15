@@ -6,11 +6,11 @@ review processes.
 
 ## Inspiration
 
-Reviews are one of the biggest reasons why code dont get pushed/take too long to get pushed. Instead of spending my time reviewing PRs, I would rather leverage AI especially if it can be trained to surf XXM lines of code in minutes and create the best possible review.  
+Reviews are one of the biggest reasons why code fails or takes too long to reach production. I notice a lot of tech leads and senior engineers who spend a lot of time reviewing PRs because they have to, and it takes too much time away from other important endeavours. As of the recent breakthrough of AI, I believe it would be more efficient to leverage AI in code reviews, especially if it has been trained over billions of lines of code and if it can generate great reviews in seconds.  
 
 ## How It Works
 
-Sleepy retrieves pull request diff, filters out excluded files, and sends code chunks to
+Sleepy retrieves pull request diffs, filters out excluded files, and sends code chunks to
 the OpenAI API. It then generates review comments based on the AI's response and adds them to the pull request.
 
 ## Use It Yourself
