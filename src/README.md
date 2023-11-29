@@ -26,3 +26,15 @@ Compilation of instances where the code review tool has proven exceptionally use
 6. Caught informal diction: https://github.com/ReshiAdavan/ReshiAdavan/pull/9
 
 <img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example6.PNG" />
+
+7. Rephrasing bullet point in resume: (Private Repository)
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example7.PNG" />
+
+8. Hard-coded values -> variables: (Private Repository)
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example8.PNG" />
+
+9. Caught informal coding formality and/or inconsistencies : (Private Repository)
+
+<img src="https://github.com/ReshiAdavan/Sleepy/blob/master/imgs/example9.PNG" />
